@@ -1,0 +1,72 @@
+ * {
+     color: rgb(0, 20, 80);
+ }
+
+ .profile-container {
+     min-width: auto;
+     padding: 5%;
+     margin: 40px;
+     margin-left: 10%;
+     margin-right: 10%;
+     gap: 30%;
+     border-radius: 25px;
+     box-shadow: 0 0 2em rgb(143, 155, 219);
+     background: whitesmoke;
+
+
+ }
+
+ .info-container {
+     display: flex;
+     flex-direction: row;
+     gap: 15%;
+
+ }
+
+ .badge-container {
+     padding-top: 20px;
+     margin-top: 30px;
+     margin: 0px;
+     display: flex;
+     flex-direction: row;
+ }
+
+
+ .holder {
+     border-radius: 2px;
+     margin-right: 2%;
+ }
+
+ .badge {
+     border-style: solid;
+     border-color: rgb(0, 20, 80);
+     margin-bottom: 1%;
+     margin-right: 1%;
+ }
+
+ .label {
+     margin-top: 20px;
+ }
+
+ .BLabel {
+     margin-top: 0px;
+     margin-right: 5%;
+ }
+
+ .scrollBox {
+     border-style: solid;
+     border-radius: 2px;
+     overflow: scroll;
+     padding-left: 20px;
+     padding-right: 40px;
+     margin-top: 10px;
+     margin-left: 8%;
+     box-shadow: 2px 2px 10px black;
+     border-radius: 5px;
+ }
+
+ .score-container {
+     display: flex;
+     flex-direction: row;
+     border-color: black;
+ }

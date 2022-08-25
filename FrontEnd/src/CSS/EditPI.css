@@ -1,0 +1,48 @@
+.edit-info {
+    display: flex;
+    flex-direction: column;
+    color: rgb(0, 20, 80);
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.Whole-editpi {
+    display: flex;
+    flex-direction: row;
+    box-shadow: 0 0 2em rgb(143, 155, 219);
+    margin: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 5%;
+    gap: 10%;
+    background: whitesmoke;
+    border-radius: 25px;
+
+}
+
+.profile-picture {
+    border: 2px solid rgb(0, 20, 80);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    /* background-color: rgb(150, 192, 226); */
+    align-content: center;
+    background-image: url("../default-profile-pic.jpg");
+    background-position: center;
+
+
+
+}
+
+
+
+.add-image {
+
+    display: flex;
+    flex-direction: column;
+
+
+}
